@@ -23,8 +23,8 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = ['2348133729715'];
-global.ownMain = '2348133729715';
+global.owner = ['573154857601'];
+global.ownMain = '573154857601';
 global.NamaOwner = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
@@ -46,7 +46,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 //===========================//
 
-global.country = '234';
+global.country = '57';
 global.system = {
   gmail: 'winneraileme6@gmail.com',
 };
